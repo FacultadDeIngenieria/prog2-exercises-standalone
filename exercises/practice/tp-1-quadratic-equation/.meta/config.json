@@ -1,0 +1,21 @@
+{
+  "blurb": "We will repeat some exercises from Prog1, but this time, using type hints",
+  "authors": [
+    "matimiodosky"
+  ],
+  "contributors": [
+    "matimiodosky"
+  ],
+  "files": {
+    "solution": [
+      "quadratic_equation.py"
+    ],
+    "test": [
+      "quadratic_equation_tests.py"
+    ],
+    "example": [
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}

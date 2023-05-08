@@ -1,0 +1,18 @@
+{
+  "blurb": "Numerical Systems",
+  "authors": [
+    "emiliolg"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "encrypt.py"
+    ],
+    "test": [
+      "encrypt_test.py"
+    ],
+    "example": [
+    ]
+  }
+}

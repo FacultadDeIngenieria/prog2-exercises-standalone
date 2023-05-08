@@ -1,0 +1,18 @@
+{
+  "blurb": "TP 8 - Shapes",
+  "authors": [
+    "matimiodosky"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "shapes.py"
+    ],
+    "test": [
+      "shapes_test.py"
+    ],
+    "example": [
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "blurb": "A School with Coursers, Students and Exams",
+  "authors": [
+    "emiliolg"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "school.py"
+    ],
+    "test": [
+      "school_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  }
+}

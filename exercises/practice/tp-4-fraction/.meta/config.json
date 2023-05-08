@@ -1,0 +1,18 @@
+{
+  "blurb": "Define a Fraction Class",
+  "authors": [],
+  "contributors": [
+    "matimiodosky"
+  ],
+  "files": {
+    "solution": [
+      "fraction.py"
+    ],
+    "test": [
+      "fraction_test.py"
+    ],
+    "example": [
+    ]
+  },
+  "source": ""
+}

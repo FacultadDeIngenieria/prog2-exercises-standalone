@@ -1,0 +1,18 @@
+{
+  "blurb": "Trapezoid Rule",
+  "authors": [
+    "emiliolg"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "trapezoid_rule.py"
+    ],
+    "test": [
+      "trapezoid_rule_test.py"
+    ],
+    "example": [
+    ]
+  }
+}

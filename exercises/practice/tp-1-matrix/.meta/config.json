@@ -1,0 +1,20 @@
+{
+  "blurb": "You have to implement some operations over Matrices",
+  "authors": [
+    "emiliolg"
+  ],
+  "contributors": [
+  ],
+  "files": {
+    "solution": [
+      "matrix.py"
+    ],
+    "test": [
+      "matrix_test.py"
+    ],
+    "example": [
+    ]
+  },
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "http://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}
